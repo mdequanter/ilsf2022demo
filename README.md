@@ -23,7 +23,8 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/mdequanter/ilsf2022demo/raw/master/.github/makecode/blocks.png)
+![image](https://user-images.githubusercontent.com/74420584/194706698-41e207be-ffea-4c1c-99ce-b268f8fdcbf9.png)
+
 
 #### Metadata (used for search, rendering)
 
